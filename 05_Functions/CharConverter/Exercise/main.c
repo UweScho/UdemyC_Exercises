@@ -22,7 +22,7 @@ int main()
     printf("to_upper_case: %c\n", to_upper_case(character));
     printf("to_lower_case: %c\n", to_lower_case(character));
 
-    test_cases(); // These tests should not fail!
+    test_cases(); // These tests should not fail!!
 
     return 0;
 }
